@@ -1,2 +1,2 @@
-# projetodeMC (MYSQL + PHP + AJAX + JAVASCRIPT + C + Arduino)
+# projetodeMC (MYSQL + PHP + AJAX + Arduino)
 Projeto de Microcontroladores e Microprocessadores
