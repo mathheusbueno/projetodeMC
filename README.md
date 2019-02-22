@@ -11,4 +11,3 @@ index.php
 
 ![image](https://user-images.githubusercontent.com/17256782/46912307-50809880-cf48-11e8-8e52-6787a9200514.png)
 
-Projeto em desenvolvimento, todo o codigo sera postado em breve...
